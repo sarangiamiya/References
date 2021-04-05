@@ -1,0 +1,215 @@
+https://www.educative.io/courses/machine-learning-for-software-engineers/qVDzy5gG9B2
+
+https://www.greatlearning.in/academy/university?ambassador_code=kBHbNg
+
+https://www.linkedin.com/video/live/activity-6648262259044827136-3sIj/
+https://careers.liventus.com/OnlineApplication/JobID_215/SeniorDataAnalyst#/StayHere
+https://www.guvi.in
+https://university.business-science.io/courses/541056/lectures/9826236
+https://www.shanelynn.ie/python-pandas-read_csv-load-data-from-csv-files/
+https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
+https://data-flair.training/blogs/pandas-tutorials-home/
+https://www.linkedin.com/jobs/view/1749464576/?refId=Y1d4fLkvtlMvDLHpzWdQ8Q%3D%3D
+https://www.linkedin.com/jobs/view/1750928976/?refId=oP1Y72wYH%2FuN1Ik9uePHtg%3D%3D
+https://www.kdnuggets.com/2020/03/python-pandas-data-discovery.html
+https://www.datasciencecentral.com/profiles/blogs/10-free-machine-learning-books
+https://www.datasciencecentral.com/profiles/blogs/17-short-tutorials-all-data-scientists-should-read-and-practice
+https://data-flair.training/blogs/sql-tutorials-home/
+
+1. Abhishek Thakur(Intermediate to Advanced)(the only 4x Kaggle Grandmaster)
+https://lnkd.in/e66wd3R
+2. StatQuest (Good for Beginners)
+https://lnkd.in/ehUf-4g
+3. Sentdex by Harrison Kinsley(Beginner to Advanced)
+https://lnkd.in/eSrDE3e
+4. DataSchool by Kevin Markham(Good for Beginners)
+https://lnkd.in/eXvTc5w
+5. deeplizard(Intermediate to Advanced)
+https://lnkd.in/eQBHksJ
+6. Corey Schafer (Good for learning Python)(Beginners)
+https://lnkd.in/eP8wZfQ
+7. deeplearning.ai.(Good for Beginners)(taught by Andrew Ng)
+https://lnkd.in/eKXiqKe
+
+
+1. SQL
+A powerful tool that helps you build a foundation for your data science career.
+https://sqlzoo.net/
+https://lnkd.in/gJijs5v
+
+2. Statistics
+Math and Stats are the building blocks of Machine Learning algorithms.
+https://lnkd.in/gZMbtw9
+https://lnkd.in/g5xUC9B
+
+3. Machine learning
+You should understand what is Machine learning and how it works.
+https://lnkd.in/g9K6FMM
+http://course18.fast.ai/ml
+
+4. Python programming
+https://lnkd.in/g5XPJfR
+https://lnkd.in/gcq4yvy
+https://lnkd.in/gQeSAmV
+
+5. Data Visualisation
+https://lnkd.in/gDsZNWY
+https://lnkd.in/gvSXydk
+
+6. Data Wrangling and Data Exploration:
+https://lnkd.in/gvqy-ha
+https://lnkd.in/gfPitDG
+
+1. Zachary Thomas' SQL Questions https://lnkd.in/g-JJzuD
+
+Still the best interview prep and examples of using window functions and temp tables I've seen. Definitely check it out!
+
+2. Leetcode: https://lnkd.in/g3c5JGC
+
+I love Leetcode for evaluating more advanced skills. I use it regularly to brush up on skills I don't run into everyday in my work.
+
+3. Kaggle Advanced SQL: https://lnkd.in/dfzPjjJ
+
+Really useful breakdown of the most common medium to advanced ideas with practical examples.
+
+4. SQL Advanced Tutorial: https://lnkd.in/dgV_ay2
+
+This is a good way to brush up on triggers, UDFs and stored procedures.
+
+5. SQL Index: https://lnkd.in/dTpFuWf
+
+
+1. Window Functions: https://lnkd.in/dGzk-v7
+
+Dedicated to teach you about window functions with high quality examples!
+
+2. Mode.com: https://lnkd.in/dx8rGES
+
+A beginner friendly intro to window functions and their power, with specific use cases like rank, lead and lag.
+
+3. Toptal: https://lnkd.in/dM5xyvy
+
+A short read that gives you immediate ability to use simple window functions.
+
+4. LearnSQL: https://lnkd.in/dqP9xAF
+
+A whole course focused on learning to use window functions. I used it when I was prepping for interviews.
+
+5. SQL Server Window Functions: https://lnkd.in/dpd_Kyj
+
+
+1. Use cases in SQL server: https://lnkd.in/dE27hQx
+
+2. A good overview of the with clause with simple examples: https://lnkd.in/dU6hpz8
+
+3. Snowflake documentation: https://lnkd.in/d3DsEsT
+
+4. Microsoft documentation: https://lnkd.in/d8nrUVR
+
+5. Breakdown of the with clause structure: https://lnkd.in/dnYPRWu
+
+
+Link: https://www.kaggle.com/learn/overview
+
+Course 2: The Google Machine Learning Crash Course - This course is through google and can be used with the google colab python environment. This course has a video component that is quite informative. 
+Link: https://developers.google.com/machine...
+Google Colab Link: https://colab.research.google.com/not...
+Course 3: Fast.ai. This course is one of the best for learning deep learning concepts. 
+Link: https://www.fast.ai/
+Fast.Ai Python Learning Recommendations: https://forums.fast.ai/t/recommended-...
+
+Bonus link for learning python: https://wiki.python.org/moin/Beginner...
+
+365 Data Science
+KDnuggets
+Analytics Vidhya
+datascience@berkeley
+DataScienceGO
+DataRobot
+Kaggle (No free hunch)
+DataKind
+Yhat, Inc. (acquired by Alteryx NYSE:AYX)
+
+Leetcode SQL Link: https://lnkd.in/g3c5JGC
+
+1. Second highest salary problem: https://lnkd.in/erz9tM2
+
+2. Duplicate emails: https://lnkd.in/eF9NJ4w
+
+3. Classes with more than 5 students: https://lnkd.in/enYntdq
+
+4. Rising temperature: https://lnkd.in/eEe3k-k
+
+5. Department top 3 salaries (this one is hard): https://lnkd.in/e-SmKD4
+
+
+Google Cloud - It not only powers Colab and kaggle but also free credit and free quicklabs and courses they launch frequently
+
+Google Dataset Search
+
+Google AI Blog - To always keep one humble by telling you do not know anything and always keep learning
+
+
+1. All algorithms implemented in Python
+By: The Algorithms
+https://lnkd.in/guaDFtA
+
+2. 30-Days-Of-Python
+By: Asabeneh Yetayeh
+https://lnkd.in/gJuJDuw
+
+3. Playground and Cheatsheet for Learning Python
+By: Oleksii Trekhleb
+https://lnkd.in/gT_QueF
+
+4. Learn Python 3
+By: Jerry Pussinen
+https://lnkd.in/gRm8xYs
+
+
+2. SQL- Follow Eric Weber he is amazing and has a lot of good content on SQL.
+
+3. Stats - Brandon Foltz YouTube channel
+
+4. Machine learning - Joshua Starmer YouTube channel
+
+5. Spark - To work with big data
+Aiengineering youtube channel. Follow Srivatsan Srinivasan on LinkedIn for his content on the whole ML lifecycle
+
+6. Data visualization
+Currently Power BI is quite popular along with Tableau
+
+7. ETL
+Alteryx of late seems to win the game. You can enroll on their E-learning module which is free.
+
+8. Basics of Artifical Nerual Networks
+Follow 3Blue1Brown youtube channel
+
+
+Stats Ques:
+. Know what a p-value is and its limitations in decisions.
+2. Linear regression and its assumptions.
+3. When to use different statistical distributions.
+4. How an effect size impacts results/decisions.
+5. Mean, variance for Normal, Uniform, Poisson.
+6. Sampling techniques and common designs (e.g. A/B).
+7. Bayes' theorem (applied calculations).
+8. Common conjugate priors (Bayesian stats).
+9. Logistic regression and ROC curves.
+10. Resampling (Cross validation + bootstrapping).
+11. Dimensionality reduction.
+12. Tree-based models (particularly how to prune)
+13. Ridge and Lasso for regression.
+
+
+1. DataCamp - Python, R, SQL. Very well structured courses with hands-on exercises. Hugo Bowne-Anderson’s courses on Python are something that I’ve gained a lot from personally.
+
+2. David Langer’s Series on YouTube-R. I personally started learning R through this video series. David covers everything from basics to advanced using some publicly available data sets.
+
+3. StatQuest by Joshua Starmer- One stop solution for all Statistical concepts. Multiple video series available from basics to advanced.
+
+4. ML by Andrew Ng - The course is available on #Coursera and covers everything for your Machine Learning journey.
+
+5. Machine Learning A-Z - Course available on Udemy and the name says it all.
+
+For SQL, w3schools usually has everything that I need. David also has an active series on SQL which might come in handy.s

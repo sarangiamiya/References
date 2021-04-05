@@ -1,0 +1,7 @@
+https://www.educative.io/courses/machine-learning-for-software-engineers
+
+
+https://machinelearningmastery.com/start-here/#getstarted
+https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63
+https://www.datacamp.com/courses/building-chatbots-in-python
+https://www.codecademy.com/learn/paths/build-chatbots-with-python
